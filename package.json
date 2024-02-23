@@ -1,0 +1,28 @@
+{
+  "name": "email_trigger_clone",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.1.1",
+    "@supabase/supabase-js": "^2.4.0",
+    "base64-url": "^2.3.3",
+    "base64url": "^3.0.1",
+    "eslint": "8.31.0",
+    "eslint-config-next": "13.1.1",
+    "fs": "^0.0.1-security",
+    "googleapis": "^110.0.0",
+    "next": "13.1.1",
+    "nextjs-progressbar": "^0.0.16",
+    "openai": "^3.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-toastify": "^9.1.1",
+    "zustand": "^4.3.1"
+  }
+}
